@@ -27,3 +27,5 @@ export default class  ClickityClick extends Component{
         );
       }
 }
+
+export default ClickityClick;
