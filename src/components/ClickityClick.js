@@ -8,13 +8,12 @@ export default class  ClickityClick extends Component{
         super()
 
         this.state ={
-            hasBeenClicked: false //initial state
+            hasBeenClicked: false 
         }
 
     }
 
     handleClick = () => {
-        //console.log("okay");
         this.setState({
             hasBeenClicked: true
           })
