@@ -8,7 +8,7 @@ export default class  ClickityClick extends Component{
         super()
 
         this.state ={
-            hasBeenClicked: false 
+            hasBeenClicked: false
         }
 
     }
